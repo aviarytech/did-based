@@ -1,0 +1,22 @@
+{
+  "name": "did-based",
+  "version": "1.0.0",
+  "description": "The did:based method is a static [Decentralized Identifier (DID)](https://www.w3.org/TR/did-core/) method that is simple and embeds the entire DID document into the identifier.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aviarytech/did-based.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aviarytech/did-based/issues"
+  },
+  "homepage": "https://github.com/aviarytech/did-based#readme",
+  "dependencies": {
+    "@digitalbazaar/did-method-key": "^3.0.0"
+  }
+}
