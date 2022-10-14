@@ -1,6 +1,6 @@
 # The did:based method
 
-> Note: This method has not been studied thoroughyl.. like at all.. and therefore shouldn't be used in a production environment.
+> Note: This method has not been studied thoroughy.. like at all.. and therefore shouldn't be used in a production environment.
 
 The did:based method is a static [Decentralized Identifier (DID)](https://www.w3.org/TR/did-core/) method that is simple and embeds the entire DID document into the identifier.
 
